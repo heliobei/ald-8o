@@ -89,8 +89,8 @@ const TwoColumnLayout = () => {
                 <h1 className="text-2xl font-black px-8 mt-4 md:mt-0">Seja bem-vindo</h1>
                 <p className="mt-4 px-8 mb-4">Aqui estão as informações para acessar a plataforma:</p>
                 {[
-                  { label: "Como Educador", text: "pablo.federer@eb.foredu.com.br" },
-                  { label: "Como Estudante", text: "adelaide.martins@aluno.eb.foredu.com.br" },
+                  { label: "Como Educador", text: "patrick.lemos@eb.foredu.com.br" },
+                  { label: "Como Estudante", text: "ana.lins@aluno.eb.foredu.com.br" },
                   { label: "Como Gestor", text: "carine.dias@eb.foredu.com.br" },
                   { label: "Senha", text: "12345678!" }
                 ].map(({ label, text }, idx) => (
